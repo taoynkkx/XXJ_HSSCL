@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\STMicroelectronics\Software\Flash Loader Demo\STMFlashLoader.exe" -c --pn 3 --br 115200 -i STM32F1_High-density_256K -e --all -d --fn OBJ\hsscl.hex --v --o 

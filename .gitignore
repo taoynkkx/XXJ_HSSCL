@@ -1,0 +1,17 @@
+.svn
+*.obj
+*.o
+*.dep
+*.bak
+*.d
+*.crf
+*.__i
+*.txt
+*.axf
+*.htm
+*.lnp
+*.plg
+*.sct
+*.tra
+*.lst
+
